@@ -1,0 +1,7 @@
+body{
+
+    background-image: url('./public/bg5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
