@@ -1,3 +1,19 @@
+la aplicacion está desplegada en heroku
+
+
+front:
+https://wikibread.herokuapp.com/
+
+back:
+https://wikibread-back.herokuapp.com/
+
+
+----------------------******--------------------------------------
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
