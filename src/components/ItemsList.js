@@ -59,6 +59,7 @@ export default class ItemList extends Component {
     }
 
     async componentDidMount() {
+        document.title = 'WikiBread';
         this.getItems();
     }
 

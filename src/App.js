@@ -23,7 +23,7 @@ function App() {
 
 
       <div className="container-lg p-2">
-        <Route path="/" exact component={ItemList} title="WikiBread"/>
+        <Route path="/" exact component={ItemList} />
         <Route path="/edit/:id" component={CreateItem} />
         <Route path="/create" component={CreateItem} />
         <Route path="/contact" component={Contact} />
